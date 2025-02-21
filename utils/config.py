@@ -1,8 +1,6 @@
 import board
 
 # GPIO Pins
-SERVO_PINS = [17, 18, 27]
-TEMP_SENSOR_PIN = 4
 LED_PIN = board.D18
 NUM_PIXELS = 30
 
